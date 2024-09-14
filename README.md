@@ -1,4 +1,14 @@
 # diffvg
+
+**This is a fork of the original diffvg repository. The following file has been modified:**
+- `pydiffvg/save_svg.py`
+
+We modified the file to support saving SVGs with radial gradients and backgrounds. See [SGLIVE](https://github.com/Rhacoal/SGLIVE).
+
+Name of the package is not changed. Please take caution when using this fork, or install it in a virtual environment.
+
+**The original README.md is below.**
+
 Differentiable Rasterizer for Vector Graphics
 https://people.csail.mit.edu/tzumao/diffvg
 

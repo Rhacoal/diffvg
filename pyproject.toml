@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "diffvg"
-version = "0.1.0"
+version = "0.1.0-sglive"
 description = ""
 authors = ["Marco Lee <marco@goodnotesapp.com>"]
 
